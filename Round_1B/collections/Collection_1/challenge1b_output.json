@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T11:18:34.691803"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Travel Tips",
+            "importance_rank": 1,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Planning, and Exploring",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Pack a Day Bag:  Bring a small day bag for daily excursions.",
+            "importance_rank": 4,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Beach Trips",
+            "importance_rank": 5,
+            "page_number": 7
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Marseille was founded by Greek sailors around 600 BC. The Old Port has been a bustling harbor for over 2,600 years. The Basilica of Notre-Dame de la Garde is perched on a hill overlooking the city. Le Panier is the oldest district in Marseille. The city hosts several festivals throughout the year.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Packing tips and tricks include layering, multi-purpose shoes, reusable bags, a portable laundry kit, a first aid kit and a list of emergency contacts, including local embassy or consulate information.    For more packing tips, visit packing.com.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Packing tips and tricks include layering, multi-purpose shoes, reusable bags, a portable laundry kit, a first aid kit and a list of emergency contacts, including local embassy or consulate information.    For more packing tips, visit packing.com.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience. ",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. Make a packing list and use packing cubes to organize clothes and maximize space. Pack a day bag for daily excursions and a foldable bag for souvenirs.",
+            "page_number": 7
+        }
+    ]
+}

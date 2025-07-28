@@ -1,0 +1,5 @@
+PyMuPDF==1.22.5
+sentence-transformers==2.2.2
+numpy
+scikit-learn
+tqdm
