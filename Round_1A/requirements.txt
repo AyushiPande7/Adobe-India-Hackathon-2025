@@ -1,0 +1,2 @@
+PyMuPDF==1.22.3
+sentencepiece==0.1.99
